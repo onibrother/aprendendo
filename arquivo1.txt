@@ -1,3 +1,5 @@
 novo arquivo de teste 
 
 arquivo editado pelo git
+
+versao 2
